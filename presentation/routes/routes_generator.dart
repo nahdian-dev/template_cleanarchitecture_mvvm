@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:udemy_demo/presentation/resources/strings_manager.dart';
+import '../../presentation/resources/strings_manager.dart';
 
 import '../../main.dart';
 import 'routes_manager.dart';
